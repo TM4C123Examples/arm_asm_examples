@@ -1,0 +1,8 @@
+/*/mdk/*
+
+!/*/mdk/*.uvprojx
+!/*/mdk/*.uvoptx
+!/*/mdk/RTE
+
+*.swp
+*.[oa]
