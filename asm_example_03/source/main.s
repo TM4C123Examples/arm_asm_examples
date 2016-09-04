@@ -16,7 +16,7 @@ main    PROC ;start of function main
         ADD R2,R1; R2 = R2 + R1
 
         ;Add register and constant store in separate register
-        ADD R3,R1,0x10; R3 = R1 + 0x10
+        ADD R3,R1,#0x10; R3 = R1 + 0x10
 
         ;Add register and constant store in same register
         MOV R4,#0x10; R4 = 0x10
@@ -32,7 +32,7 @@ main    PROC ;start of function main
         SUB R2,R1; R2 = R2 - R1
 
         ;Substract register and constant store in separate register
-        SUB R3,R1,0x10; R3 = R1 - 0x10
+        SUB R3,R1,#0x10; R3 = R1 - 0x10
 
         ;Substract register and constant store in same register
         MOV R4,#0x10; R4 = 0x10

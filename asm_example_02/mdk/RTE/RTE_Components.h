@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Component Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'asm_example_01' 
+ * Project: 'asm_example_02' 
  * Target:  'Target 1' 
  */
 
